@@ -21,7 +21,7 @@ I am currently a first-year PhD student in Bioinformatics and Computational Biol
 Before starting my PhD, I received my M.S. degree from Nanyang Technological University in 2025, supported by the NTU Scholarship. I spent several memorable and formative years at Xi’an Jiaotong-Liverpool University in Suzhou, where I received my B.S. degree in 2024.
 Outside of research, I enjoy sports, music, and photography. Growing up in Northeast China, I have always been drawn to winter sports. I also have a background in competitive table tennis and sprinting, and I enjoy playing the piano and capturing everyday moments through photography.
 
-## Research Interests
+## 📑 Research Interests
 - Artificial Intelligence for Biomedicine
 - Computational Modeling of Complex Biological Systems
 - Precision Medicine and Clinical Trial Optimization
