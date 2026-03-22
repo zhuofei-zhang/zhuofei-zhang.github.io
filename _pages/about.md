@@ -32,8 +32,7 @@ Outside of research, I enjoy sports, music, and photography. Growing up in North
 - *2025.08*: 🎉🎉Honored to start full-time research at Mayo Clinic
 - *2025.01*: 🎉🎉 One paper posted on *bioRxiv*  
 - *2022.05*: 🎉🎉One paper accepted to *Biomolecules*
-  
-# 📝 Publications 
+
 
 # 📝 Publications 
 
