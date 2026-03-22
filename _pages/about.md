@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="text-align: right; margin-bottom: 10px;">
   <img src="/images/umn.jpg" alt="UMN" style="height:60px; margin-right:10px;">
-  <img src="/images/mayo.jpg" alt="Mayo Clinic" style="height:60px;">
+  <img src="/images/mayo.jpg" alt="Mayo Clinic" style="height:90px;">
 </div>
 
 # 👩🏻‍🎓 About Me
