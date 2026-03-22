@@ -17,42 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first-year PhD student in Bioinformatics and Computational Biology at the University of Minnesota. I am fortunate to be advised by Dr. Hu Li, Dr. Cristina Correia, and Dr. Choong Ung. My research is primarily based at Mayo Clinic, where I work on applying artificial intelligence and computational methods to understand complex biological systems and diseases, with a focus on multi-omics data and precision medicine.
+Before starting my PhD, I received my M.S. degree from Nanyang Technological University in 2025, supported by the NTU Scholarship. I spent several memorable and formative years at Xi’an Jiaotong-Liverpool University in Suzhou, where I received my B.S. degree in 2024.
+Outside of research, I enjoy sports, music, and photography. Growing up in Northeast China, I have always been drawn to winter sports. I also have a background in competitive table tennis and sprinting, and I enjoy playing the piano and capturing everyday moments through photography.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+## Research Interests
+- Artificial Intelligence for Biomedicine
+- Computational Modeling of Complex Biological Systems
+- Precision Medicine and Clinical Trial Optimization
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2026.03*: 🎉🎉One paper accepted to *International Journal of Molecular Sciences (IJMS)*  
+- *2025.11*: 🎉🎉One paper accepted to *Cancers*  
+- *2025.08*: 🎉🎉Honored to start full-time research at Mayo Clinic
+- *2025.01*: 🎉🎉 One paper posted on *bioRxiv*  
+- *2022.05*: 🎉🎉One paper accepted to *Biomolecules*
+  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Mini-Galaxy: Rethinking Complex Human Diseases Through the Lens of Systems Biology and Multilayered AI Network Perspectives  
+Correia C, Ung CY, **Zhang Z**, Blissenbach E, Zhu S, Billadeau DD, Loh YH, Li H  
+*International Journal of Molecular Sciences (IJMS), 2026*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+---
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Artificial Clinic Intelligence (ACI): A Generative AI-Powered Modeling Platform to Optimize Patient Cohort Enrichment and Clinical Trial Optimization  
+Ung CY, Correia C, **Zhang Z**, Caya C, Zhu S, Billadeau DD, Li H  
+*Cancers, 2025*  
+[Paper](https://doi.org/10.3390/cancers17213543)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+---
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Symmetry as a Fundamental Principle in Defining Gene Expression and Phenotypic Traits  
+Zhang C, Correia C, Weiskittel T, Tan SH, **Zhang Z**, Yeo KS, Zhu S, Choong CY, Li H  
+*bioRxiv, 2025*  
+[Paper](https://doi.org/10.1101/2025.01.27.634930)
+
+---
+
+### SPIN-AI: A Deep Learning Model That Identifies Spatially Predictive Genes  
+Meng-Lin K, Ung CY, Zhang C, Weiskittel TM, Wisniewski P, **Zhang Z**, Tan SH, Yeo KS, Zhu S, Correia C, Li H  
+*Biomolecules, 2023*  
+[Paper](https://doi.org/10.3390/biom13060895)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **MAE Graduate Study Award, Nanyang Technological University** (2025)
+- **Outstanding Graduate Award of Jiangsu Province** (2025)  
+- Academic Excellence Award, Nanyang Technological University (2024)  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Student Award, Xi’an Jiaotong-Liverpool University (2023)  
+- Academic Excellence Award, Xi’an Jiaotong-Liverpool University (2023)  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Outstanding Student Award, Xi’an Jiaotong-Liverpool University (2022)  
+- Academic Excellence Award, Xi’an Jiaotong-Liverpool University (2022)  
+ 
