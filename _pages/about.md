@@ -62,8 +62,8 @@ Meng-Lin K, Ung CY, Zhang C, Weiskittel TM, Wisniewski P, **Zhang Z**, Tan SH, Y
 
 
 # 🎖 Honors and Awards
-- **MAE Graduate Study Award, Nanyang Technological University** (2025)
-- **Outstanding Graduate Award of Jiangsu Province** (2025)  
+- MAE Graduate Study Award, Nanyang Technological University (2025)
+- Outstanding Graduate Award of Jiangsu Province (2025)  
 - Academic Excellence Award, Nanyang Technological University (2024)  
 
 - Outstanding Student Award, Xi’an Jiaotong-Liverpool University (2023)  
