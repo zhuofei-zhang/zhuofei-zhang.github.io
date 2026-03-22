@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhuofei Zhang"
-  avatar           : "avatar: "images/photo.jpg""
+  avatar           : "images/photo.jpg"
   bio              : "Ph.D. student at University of Minnesota"
   location         : "Rochester, MN"
   employer         : "University of Minnesota & Mayo Clinic"
