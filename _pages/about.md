@@ -35,39 +35,56 @@ Outside of research, I enjoy sports, music, and photography. Growing up in North
   
 # 📝 Publications 
 
-### Mini-Galaxy: Rethinking Complex Human Diseases Through the Lens of Systems Biology and Multilayered AI Network Perspectives  
-Correia C, Ung CY, **Zhang Z**, Blissenbach E, Zhu S, Billadeau DD, Loh YH, Li H  
-*International Journal of Molecular Sciences (IJMS), 2026*
+# 📝 Publications 
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="images/aci.png" width="100%">
+    <img src="/images/aci.jpg" alt="ACI" width="100%">
   </div>
-
-  <div class="paper-box-text" markdown="1">
-
-### Artificial Clinic Intelligence (ACI): A Generative AI-Powered Modeling Platform to Optimize Patient Cohort Enrichment and Clinical Trial Optimization  
-Ung CY, Correia C, **Zhuofei Zhang**, Caya C, Zhu S, Billadeau DD, Li H  
-*Cancers, 2025*  
-
-[Paper](https://doi.org/10.3390/cancers17213543)
-
-- A generative AI framework for modeling patient heterogeneity and optimizing clinical trial enrichment.
-
+  <div class="paper-box-text">
+    <p><strong>Artificial Clinic Intelligence (ACI): A Generative AI-Powered Modeling Platform to Optimize Patient Cohort Enrichment and Clinical Trial Optimization</strong></p>
+    <p>Ung CY, Correia C, <strong>Zhuofei Zhang</strong>, Caya C, Zhu S, Billadeau DD, Li H</p>
+    <p><em>Cancers, 2025</em></p>
+    <p><a href="https://doi.org/10.3390/cancers17213543">Paper</a></p>
+    <ul>
+      <li>A generative AI framework for modeling patient heterogeneity and optimizing clinical trial enrichment.</li>
+    </ul>
   </div>
 </div>
 
-### Symmetry as a Fundamental Principle in Defining Gene Expression and Phenotypic Traits  
-Zhang C, Correia C, Weiskittel T, Tan SH, **Zhang Z**, Yeo KS, Zhu S, Choong CY, Li H  
-*bioRxiv, 2025*  
-[Paper](https://doi.org/10.1101/2025.01.27.634930)
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/spin-ai.jpg" alt="SPIN-AI" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>SPIN-AI: A Deep Learning Model That Identifies Spatially Predictive Genes</strong></p>
+    <p>Meng-Lin K, Ung CY, Zhang C, Weiskittel TM, Wisniewski P, <strong>Zhuofei Zhang</strong>, Tan SH, Yeo KS, Zhu S, Correia C, Li H</p>
+    <p><em>Biomolecules, 2023</em></p>
+    <p><a href="https://doi.org/10.3390/biom13060895">Paper</a></p>
+    <ul>
+      <li>A deep learning framework for identifying spatially predictive genes from spatial transcriptomics data.</li>
+    </ul>
+  </div>
+</div>
 
----
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/symmetry.jpg" alt="Symmetry" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Symmetry as a Fundamental Principle in Defining Gene Expression and Phenotypic Traits</strong></p>
+    <p>Zhang C, Correia C, Weiskittel T, Tan SH, <strong>Zhuofei Zhang</strong>, Yeo KS, Zhu S, Choong CY, Li H</p>
+    <p><em>bioRxiv, 2025</em></p>
+    <p><a href="https://doi.org/10.1101/2025.01.27.634930">Paper</a></p>
+    <ul>
+      <li>Introduces symmetry-based invariant feature modeling to characterize biological phenotypes.</li>
+    </ul>
+  </div>
+</div>
 
-### SPIN-AI: A Deep Learning Model That Identifies Spatially Predictive Genes  
-Meng-Lin K, Ung CY, Zhang C, Weiskittel TM, Wisniewski P, **Zhang Z**, Tan SH, Yeo KS, Zhu S, Correia C, Li H  
-*Biomolecules, 2023*  
-[Paper](https://doi.org/10.3390/biom13060895)
+### Mini-Galaxy: Rethinking Complex Human Diseases Through the Lens of Systems Biology and Multilayered AI Network Perspectives  
+Correia C, Ung CY, <strong>Zhuofei Zhang</strong>, Blissenbach E, Zhu S, Billadeau DD, Loh YH, Li H  
+<em>International Journal of Molecular Sciences (IJMS), 2026</em>
 
 
 # 🎖 Honors and Awards
