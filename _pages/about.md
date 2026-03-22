@@ -39,8 +39,6 @@ Outside of research, I enjoy sports, music, and photography. Growing up in North
 Correia C, Ung CY, **Zhang Z**, Blissenbach E, Zhu S, Billadeau DD, Loh YH, Li H  
 *International Journal of Molecular Sciences (IJMS), 2026*
 
----
-
 <div class="paper-box">
   <div class="paper-box-image">
     <img src="images/aci.png" width="100%">
@@ -58,9 +56,6 @@ Ung CY, Correia C, **Zhuofei Zhang**, Caya C, Zhu S, Billadeau DD, Li H
 
   </div>
 </div>
-
-
----
 
 ### Symmetry as a Fundamental Principle in Defining Gene Expression and Phenotypic Traits  
 Zhang C, Correia C, Weiskittel T, Tan SH, **Zhang Z**, Yeo KS, Zhu S, Choong CY, Li H  
