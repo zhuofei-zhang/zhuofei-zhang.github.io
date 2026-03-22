@@ -41,10 +41,24 @@ Correia C, Ung CY, **Zhang Z**, Blissenbach E, Zhu S, Billadeau DD, Loh YH, Li H
 
 ---
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/aci.png" width="100%">
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+
 ### Artificial Clinic Intelligence (ACI): A Generative AI-Powered Modeling Platform to Optimize Patient Cohort Enrichment and Clinical Trial Optimization  
-Ung CY, Correia C, **Zhang Z**, Caya C, Zhu S, Billadeau DD, Li H  
+Ung CY, Correia C, **Zhuofei Zhang**, Caya C, Zhu S, Billadeau DD, Li H  
 *Cancers, 2025*  
+
 [Paper](https://doi.org/10.3390/cancers17213543)
+
+- A generative AI framework for modeling patient heterogeneity and optimizing clinical trial enrichment.
+
+  </div>
+</div>
+
 
 ---
 
