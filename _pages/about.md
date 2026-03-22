@@ -16,6 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<div style="text-align: right; margin-bottom: 10px;">
+  <img src="/images/umn.jpg" alt="UMN" style="height:40px; margin-right:10px;">
+  <img src="/images/mayo.jpg" alt="Mayo Clinic" style="height:40px;">
+</div>
 
 # 👩🏻‍🎓 About Me
 I am currently a first-year PhD student in Bioinformatics and Computational Biology at the University of Minnesota. I am fortunate to be advised by Dr. Hu Li, Dr. Cristina Correia, and Dr. Choong Ung. My research is primarily based at Mayo Clinic, where I work on applying artificial intelligence and computational methods to understand complex biological systems and diseases, with a focus on multi-omics data and precision medicine.
