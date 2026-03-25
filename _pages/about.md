@@ -22,9 +22,8 @@ redirect_from:
 </div>
 
 # 👩🏻‍🎓 About Me
-I am currently a first-year PhD student in Bioinformatics and Computational Biology at the **University of Minnesota**. I am fortunate to be advised by Dr. Hu Li, Dr. Cristina Correia, and Dr. Choong Ung. My research is primarily based at **Mayo Clinic**, where I work on applying artificial intelligence and computational methods to understand complex biological systems and diseases, with a focus on multi-omics data and precision medicine.
-Before starting my PhD, I received my M.S. degree from Nanyang Technological University in 2025, supported by the NTU Scholarship. I spent several memorable and formative years at Xi’an Jiaotong-Liverpool University in Suzhou, where I received my B.S. degree in 2024.
-Outside of research, I enjoy sports, music, and photography. Growing up in Northeast China, I have always been drawn to winter sports. I also have a background in competitive table tennis and sprinting, and I enjoy playing the piano and capturing everyday moments through photography.
+I am currently a first-year PhD student in Bioinformatics and Computational Biology at the University of Minnesota, USA. I am fortunate to be advised by Dr. Hu Li, and co-mentors Dr. Cristina Correia, and Dr. Choong Yong Ung. My research is primarily based at Mayo Clinic, where I work on applying Artificial Intelligence (AI) and computational systems biology methods to understand complex biological systems and human diseases, with a focus on multi-omics data and precision medicine. Before starting my PhD, I received my M.S. degree from Nanyang Technological University (NTU) at Singapore in 2025, supported by the NTU Scholarship. I spent several memorable and formative years at Xi’an Jiaotong-Liverpool University in Suzhou, China, where I received my B.S. degree in 2024. Outside of research, I enjoy sports, music, and photography.
+
 
 ## 📑 Research Interests
 - Artificial Intelligence for Biomedicine
